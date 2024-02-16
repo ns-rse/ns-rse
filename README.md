@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Neil Shephard, a Research Software Engineer at the University of Sheffield.
-- 👀 I’m interested in literate programming and reproducible research using [R](https://www.r-projects.org), [Python](https://www.python.org), [Emacs](https://www.gnu.org/software/emacs/) and its [Org Mode](https://orgmode.org) ecosystem.
+- 👋 Hi, I’m Neil Shephard, a Research Software Engineer at the University of Sheffield and a member of the [Society of Research Software Engineering](https://society-rse.org).
+- 👀 I’m interested in literate programming and reproducible research using [R](https://www.r-projects.org), [Python](https://www.python.org), [Emacs](https://www.gnu.org/software/emacs/) and its [Org Mode](https://orgmode.org) ecosystem and strive to make the software I work on meet the [FAIR4RS Principles](https://fair-software.nl).
 <!--- - 🌱 I’m currently learning  --->
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 Contact me via email at [n.shephard@sheffield.ac.uk](mailto:n.shephard@sheffield.ac.uk) or on Mastodon at [@nshephard@fosstodon.org](https://fosstodon.org/@nshephard).
